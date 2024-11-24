@@ -1,6 +1,11 @@
 IXPs by City:
 Keys: City, State
 
+Reliability:
+Keys: State
 
 EPA_State_Emissions_2023:
-Keys: State
+Keys: State, City, County, Lat/Long
+
+Energy Efficiency 2023 clean:
+Keys: State, Balancing Authority Code, Year
