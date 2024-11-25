@@ -1,0 +1,200 @@
+,IXP Name,City,State
+0,48 IX,Phoenix,AZ
+1,ABQIX,Albuquerque,NM
+2,AlaskaIX,Anchorage,AK
+3,Amateur Radio Internet Exchange - ARIX,Fremont,CA
+4,Amateur Radio Internet Exchange - ARIX,Portland,OR
+5,Amateur Radio Internet Exchange - ARIX,Flagstaff,AZ
+6,AMS-IX Bay Area,San Francisco,CA
+7,AMS-IX Bay Area,San Jose,CA
+8,AMS-IX Chicago,Chicago,IL
+9,Arizona Internet Exchange - AZIX,Phoenix,AZ
+10,Baltimore Internet Exchange - Baltimore IX,Baltimore,MD
+11,BGP.Exchange - Chicago,Chicago,IL
+12,BGP.Exchange - Fremont,Fremont,CA
+13,BGP.Exchange - Kansas,Kansas City,KS
+14,BGP.Exchange - Los Angeles,Los Angeles,CA
+15,BGP.Exchange - Miami,Miami,FL
+16,BGP.Exchange - New York,New York,NY
+17,Boston Internet Exchange,Boston,MA
+18,BroadBand Internet Exchange Chicago - BBIX Chicago,Chicago,IL
+19,BroadBand Internet Exchange Dallas - BBIX Dallas,Dallas,TX
+20,BroadBand Internet Exchange Miami - BBIX Miami,Miami,FL
+21,BroadBand Internet Exchange US-West - BBIX US-West,West Coast,
+22,Buffalo Niagara International Internet Exchange - BNIIX,Buffalo,NY
+23,Central Florida Internet Exchange - CFLIX,Orlando,FL
+24,Central Michigan Internet Exchange - CM-IX,Mount Pleasant,MI
+25,Central Oregon Internet Exchange,Bend,OR
+26,Chicago Internet Exchange - ChIX,Chicago,IL
+27,Cleveland Internet Exchange - CL-IX,Cleveland,OH
+28,Columbus Internet Exchange - CMH-IX,Columbus,OH
+29,Community IX - Atlanta - CIX-ATL,Atlanta,GA
+30,CoreSite - Any2Chicago,Chicago,IL
+31,CoreSite - Any2Denver,Denver,CO
+32,CoreSite - Any2East,Washington DC,
+33,CoreSite - Any2East,Reston,VA
+34,CoreSite - Any2East,Boston,MA
+35,CoreSite - Any2East,New York,NY
+36,CoreSite - Any2East,Atlanta,GA
+37,CoreSite - Any2West,Los Angeles,CA
+38,CoreSite - Any2West,Silicon Valley,CA
+39,CyrusOne Internet Exchange - CyrusOne IX Austin,Austin,TX
+40,CyrusOne Internet Exchange - CyrusOne IX Dallas,Dallas,TX
+41,CyrusOne Internet Exchange - CyrusOne IX Phoenix,Phoenix,AZ
+42,DACS-IX Central Region,Chicago,IL
+43,DACS-IX East Region,Baltimore,MD
+44,DACS-IX West Region,Silicon Valley,CA
+45,Dallas Internet Exchange Point - DFW-IX,Dallas,TX
+46,DartNode IXP - DartNode IXP - Houston,Houston,Texas
+47,Databank Internet Exchange - Databank IX Houston,Houston,TX
+48,DE-CIX Chicago,Chicago,IL
+49,DE-CIX Dallas,Dallas,TX
+50,DE-CIX New York,New York,NY
+51,DE-CIX Phoenix,Phoenix,AZ
+52,DE-CIX Richmond,Ashland,VA
+53,Denver IX,Denver,CO
+54,DesMoines Internet Exchange - DesMoinesIX,Des Moines,IA
+55,Detroit Internet Exchange - DET-IX,Detroit,MI
+56,Digital Realty Ashburn Internet Exchange,Ashburn,VA
+57,Digital Realty Atlanta Internet Exchange,Atlanta,GA
+58,Digital Realty Chicago,Chicago,IL
+59,Digital Realty Dallas Internet Exchange,Dallas,TX
+60,Digital Realty New York Internet Exchange,New York,NY
+61,Digital Realty New York Internet Exchange,Clifton,NJ
+62,Digital Realty Phoenix Internet Exchange,Phoenix,AZ
+63,DRFortress Exchange - DRF IX,Honolulu,HI
+64,Equinix Internet Exchange Ashburn - Equinix Ashburn,Ashburn,VA
+65,Equinix Internet Exchange Atlanta - Equinix Atlanta,Atlanta,GA
+66,Equinix Internet Exchange Chicago - Equinix Chicago,Chicago,IL
+67,Equinix Internet Exchange Dallas - Equinix Dallas,Dallas,TX
+68,Equinix Internet Exchange Denver - Equinix Denver,Denver,CO
+69,Equinix Internet Exchange Los Angeles - Equinix Los Angeles,Los Angeles,CA
+70,Equinix Internet Exchange Miami - Equinix Miami,Miami,FL
+71,Equinix Internet Exchange New York - Equinix New York,New York,NY
+72,Equinix Internet Exchange Palo Alto - Equinix Palo Alto,Palo Alto,CA
+73,Equinix Internet Exchange San Jose (Bay Area) - Equinix San Jose,San Jose,CA
+74,Equinix Internet Exchange Seattle - Equinix Seattle,Seattle,
+75,Experimental Virtual Internet Exchange - EVIX,Fremont,CA
+76,F4 Internet Exchange - F4IX MCI,Kansas City,MO
+77,Fargo-Moorhead Internet Exchange - FMIX,Fargo,ND
+78,FD-IX - Amarillo,Amarillo,TX
+79,Fiber Data Internet Exchange - FD-IX - Iowa,Altoona,IA
+80,FL-IX - The Florida Internet Exchange / Community IX - Florida,Miami,FL
+81,Flooyd Internet Exchange for Kansas - FlooydIX Kansas,Kansas City,MO
+82,Fremont Cabal Internet Exchange - FCIX,Fremont,CA
+83,Fremont Metro Internet Exchange - FREMIX,Fremont,CA
+84,Gig IX Ashburn,Ashburn,VA
+85,Global Peer Exchange,Washington,DC
+86,Global Peering Managed Services Provider - GPIEX,Albany,NY
+87,Grand Rapids Internet Exchange - Grand Rapids Internet Exchange (GRR-iX),Grand Rapids,MI
+88,Greater Chicago International Internet Exchange - GCIIX,Chicago,IL
+89,Great Plains Connect - GPC Missouri,North Kansas City,MO
+90,Hawai`i Internet Exchange - HIX,Honolulu,HI
+91,Hawaii Pacific Teleport IX-1 - HPTI-IX,Honolulu,HI
+92,Houston Internet Exchange - HOUIX,Houston,TX
+93,Hyper Group vInternet Exchange - Hyper Group Internet Exchange (HNIX),North Kansas City,MO
+94,Interconnection eXchange Denver - IX-Denver,Denver,CO
+95,Internet eXchange 42 Las Vegas - IX42 LAS,Las Vegas,NV
+96,Internet Exchange Oklahoma City - iX-OKC,Oklahoma City,OK
+97,IXP US FRE,Fremont,CA
+98,Jacksonville Internet Exchange - JXIX,Jacksonville,FL
+99,Kansas City Internet Exchange - KCIX,Kansas City,MO
+100,Lambda Internet Exchange - Lambda-IX,Fremont,CA
+101,Lightboard Burlington IX (Vermont),Burlington,VT
+102,Lightboard Burlington IX (Vermont),Montpelier,VT
+103,Lightboard Burlington IX (Vermont),White River Junction,VT
+104,Lightboard Springfield IX (Massachusetts),Springfield,MA
+105,Lightboard Springfield IX (Massachusetts),Hartford,CT
+106,Lightboard Springfield IX (Massachusetts),New Haven,CT
+107,LINX Northern Virginia,Ashburn,VA
+108,LINX Northern Virginia,Reston,VA
+109,LINX Northern Virginia,Manassas,VA
+110,Madison Internet Exchange - MadIX,Madison,WI
+111,MASS IX Boston/Massachusetts Internet Exchange - MASS-IX,Boston,MA
+112,MegaIX Bay Area,San Francisco,CA
+113,MegaIX Chicago,Chicago,IL
+114,Megaport MegaIX Ashburn,Ashburn,VA
+115,Megaport MegaIX Atlanta,Atlanta,GA
+116,Megaport MegaIX Charlotte,Charlotte,NC
+117,Megaport MegaIX Dallas,Dallas,TX
+118,Megaport MegaIX Denver,Denver,CO
+119,Megaport MegaIX Las Vegas,Las Vegas,NV
+120,Megaport MegaIX Los Angeles,Los Angeles,CA
+121,Megaport MegaIX Miami,Miami,FL
+122,Megaport MegaIX New York,New York,NY
+123,Megaport MegaIX Seattle,Seattle,WA
+124,MEX-IX El Paso,El Paso,TX
+125,MEX-IX McAllen,McAllen,TX
+126,Miami Internet Exchange - MiamiIX,Miami,FL
+127,Miaowoo Internet Exchange Ashburn - Miaowoo Ashburn,Ashburn,VA
+128,MIDSOUTH U.S. Internet Exchange - MUS-IX,Dallas,TX
+129,Midwest Internet Cooperative Exchange - MICE,Minneapolis,MN
+130,MidWest-IX / FD-IX Indianapolis - FD-IX - Indianapolis,Indianapolis,IN
+131,MidWest-IX - Ohio - FD-IX - Ohio,Cleveland,OH
+132,Moe Internet Exchange - Seattle - MoeIX SEA,Seattle,WA
+133,Montgomery Internet Exchange - MGMix Montgomery,Montgomery,AL
+134,MorePeering Los Angeles,Los Angeles,CA
+135,Mountain West Internet Exchange,Salt Lake City,UT
+136,NASA Ames Internet eXchange - NASA-AIX,Mountain View,CA
+137,Nashville Internet Exchange - NashIX,Nashville,TN
+138,New York International Internet eXchange - Los Angeles - NYIIX Los Angeles,Los Angeles,CA
+139,New York International Internet eXchange - NYIIX New York,New York,NY
+140,New York International Internet eXchange - Philadelphia - NYIIX Philadelphia,Philadelphia,PA
+141,Ninja-IX Auburn,Auburn,AL
+142,Ninja-IX Charlotte,Charlotte,NC
+143,Ninja-IX Dallas,Dallas,TX
+144,Ninja-IX Houston,Houston,TX
+145,Ninja-IX Las Vegas,Las Vegas,NV
+146,Ninja-IX Norfolk,Norfolk,VA
+147,Ninja-IX Phoenix,Phoenix,AZ
+148,Ninja-IX Raleigh,Raleigh,NC
+149,Ninja-IX Richmond,Richmond,VA
+150,Ninja-IX Sacramento,Sacramento,CA
+151,North East Ohio Internet Exchange - NEO-IX,Akron,OH
+152,Northern New England Neutral Internet Exchange - NNENIX,Portland,ME
+153,Northwest Access Exchange Inc. - NWAX,Portland,OR
+154,NVIX,Ashburn,VA
+155,Ohio IX,Columbus,OH
+156,Omaha Internet Exchange - OmahaIX,Omaha,NE
+157,Open Peering & Transit Internet Exchange - OPTIX,Fremont,CA
+158,Oregon-IX - Oregon Internet Exchange (OIX),Eugene,OR
+159,Pacific Wave Exchange in LA,Sunnyvale,CA
+160,Pacific Wave Exchange in LA,Seattle,WA
+161,Paducah Internet Exchange - PaducahIX,Paducah,KY
+162,PEER-1 Global Internet Exchange - PEER1-IX,New York,NY
+163,Philadelphia Internet Exchange - PhillyIX,Philadelphia,PA
+164,Pittsburgh Internet Exchange - PIT-IX,Pittsburgh,PA
+165,pOrt pOrT poRT INTERNET EXCHANGE - Port IX,Fremont,CA
+166,Quad Cities Internet eXchange - QCIX,Davenport,IA
+167,Saint Louis Internet Exchange - STLIX,Saint Louis,MO
+168,Salt Lake Internet Exchange - SLIX - Salt Lake City Internet Exchange,Salt Lake City,UT
+169,San Antonio Internet Exchange - SAT-IX,San Antonio,TX
+170,San Francisco Metropolitan Internet Exchange - SFMIX,San Francisco,CA
+171,Seattle Internet Exchange (MTU 1500) - SIX Seattle,Seattle,WA
+172,Seattle Internet Exchange (MTU 9000) - SIX Seattle (Jumbo),Seattle,WA
+173,Securebit Internet Exchange Fremont - SBIX FRE,Fremont,CA
+174,Securebit Internet Exchange Fremont - SBIX FRE,Neuheim,CA
+175,Sioux City Internet eXchange - SIOUIX,Sioux City,IA
+176,Skywolf Internet Exchange United States - Skywolf IX US,Fremont,CA
+177,Southern Oregon Access Exchange - SOAX,Medford,OR
+178,Southern Utah Peering Regional Network - SUPRnet,Saint George,UT
+179,Spokane Internet Exchange - SpokaneIX,Spokane,WA
+180,Springfield Internet eXchange - SpringIX,Springfield,MO
+181,Statewide North Carolina Internet Exchange - Statewide NC-IX,Charlotte,NC
+182,St. Louis Regional Internet Exchange - FD-IX - St. Louis,St. Louis,MO
+183,Tahoe Internet Exchange - TahoeIX,Reno,NV
+184,Tampa Internet Exchange - TampaIX,Tampa,FL
+185,Tampa Internet Exchange - TPAIX,Tampa,FL
+186,Texas-IX - FD-IX - Texas,Houston,TX
+187,Texas-IX - FD-IX - Texas,San Antonio,TX
+188,Texas-IX - FD-IX - Texas,Austin,TX
+189,Texas-IX - FD-IX - Texas,Dallas,TX
+190,The Big Apple Peering Exchange - BigApe,New York,NY
+191,The Milwaukee IX - MKE-IX,Milwaukee,WI
+192,The South Coast Access Exchange - TheSCAX,Brookings,OR
+193,Tucson Internet Exchange - TUSIX,Tucson,AZ
+194,Twin Ports Internet Exchange - TP-IX,Duluth,MN
+195,West Virginia Internet Exchange,South Charleston,WV
+196,Willamette Internet Exchange,Eugene,OR
+197,Yellowstone Regional Internet eXchange - YRIX,Billings,MT
+198,Zero Internet eXchange San Jose,San Jose,CA

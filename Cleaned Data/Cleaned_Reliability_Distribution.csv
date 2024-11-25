@@ -1,0 +1,52 @@
+,Census Division,State,Percent of Customers Reported w/ Major Events,SAIDI w/ Major Events,SAIFI w/ Major Events,CAIDI w/ Major Events,SAIDI w/o Major Events,SAIFI w/o Major Events,CAIDI w/o Major Events
+0,New England,CT,100.6,164.6,0.9,188.8,70.3,0.7,107.3
+1,New England,ME,100.8,1863.0,3.3,562.2,247.4,2.0,125.0
+2,New England,MA,88.2,259.4,1.1,245.4,82.2,0.8,105.4
+3,New England,NH,99.3,645.8,1.8,368.5,124.6,1.0,126.1
+4,New England,RI,98.3,104.6,0.8,133.7,52.2,0.7,78.3
+5,New England,VT,87.0,744.4,2.4,316.5,221.3,1.6,140.0
+6,Middle Atlantic,NJ,101.0,108.3,0.9,123.0,88.5,0.8,106.5
+7,Middle Atlantic,NY,97.7,120.0,0.7,165.6,70.0,0.6,119.4
+8,Middle Atlantic,PA,94.4,252.7,1.1,228.0,119.2,0.9,135.8
+9,East North Central,IL,97.8,208.2,0.8,249.2,56.2,0.6,92.9
+10,East North Central,IN,91.1,455.4,1.4,314.8,110.3,0.9,116.6
+11,East North Central,MI,97.4,1093.6,1.5,723.5,162.7,0.9,176.7
+12,East North Central,OH,96.5,366.2,1.3,292.5,127.0,0.9,138.4
+13,East North Central,WI,92.5,183.0,0.9,208.6,72.4,0.6,114.7
+14,West North Central,IA,85.2,104.9,0.9,115.7,70.4,0.7,99.3
+15,West North Central,KS,82.5,283.1,1.3,214.9,101.7,1.0,101.9
+16,West North Central,MN,88.7,126.4,1.0,129.9,73.4,0.8,93.5
+17,West North Central,MO,87.6,371.8,1.3,282.9,106.7,0.9,121.7
+18,West North Central,NE,73.6,72.6,0.6,130.1,56.8,0.5,118.3
+19,West North Central,ND,89.0,208.6,1.1,197.7,89.9,0.9,99.1
+20,West North Central,SD,74.3,77.0,1.0,76.2,63.2,0.9,70.8
+21,South Atlantic,DE,89.0,108.2,0.8,130.3,60.4,0.7,87.3
+22,South Atlantic,DC,98.9,71.9,0.4,194.2,33.3,0.3,104.6
+23,South Atlantic,FL,100.2,160.1,1.0,157.7,69.2,0.8,84.1
+24,South Atlantic,GA,89.5,349.2,1.9,185.2,136.8,1.4,100.8
+25,South Atlantic,MD,98.7,166.2,0.9,180.7,66.9,0.7,95.1
+26,South Atlantic,NC,96.1,252.0,1.5,167.4,153.5,1.3,120.5
+27,South Atlantic,SC,95.6,167.2,1.5,110.9,126.1,1.3,97.7
+28,South Atlantic,VA,96.8,221.1,1.5,151.3,159.3,1.3,124.2
+29,South Atlantic,WV,97.8,751.5,2.4,319.4,385.7,1.9,206.2
+30,East South Central,AL,80.0,294.2,1.6,186.9,120.2,1.0,122.8
+31,East South Central,KY,96.6,868.2,1.9,456.3,143.4,1.2,122.9
+32,East South Central,MS,83.6,802.1,2.7,295.2,252.8,2.1,118.0
+33,East South Central,TN,87.0,857.9,2.8,305.1,186.1,1.9,98.1
+34,West South Central,AR,89.3,911.2,2.1,433.4,221.7,1.5,144.0
+35,West South Central,LA,93.6,584.2,2.1,275.1,195.0,1.6,118.8
+36,West South Central,OK,90.0,896.6,1.9,481.6,139.3,1.1,121.8
+37,West South Central,TX,96.9,496.2,1.8,281.5,124.7,1.2,106.1
+38,Mountain,AZ,96.7,106.8,1.0,108.6,69.3,0.8,84.8
+39,Mountain,CO,91.8,99.2,0.9,108.3,88.4,0.9,102.2
+40,Mountain,ID,94.9,137.5,1.1,128.4,119.4,1.0,121.2
+41,Mountain,MT,75.0,118.7,1.1,111.1,117.1,1.1,111.0
+42,Mountain,NV,102.7,138.7,0.9,147.2,81.2,0.7,108.9
+43,Mountain,NM,90.1,168.9,1.2,136.0,132.3,1.0,132.7
+44,Mountain,UT,88.4,127.1,0.9,138.7,109.8,0.9,124.9
+45,Mountain,WY,75.9,127.0,1.0,127.8,96.0,0.8,124.7
+46,Pacific Contiguous,CA,100.2,346.6,1.4,248.1,152.0,1.1,140.0
+47,Pacific Contiguous,OR,92.9,126.9,0.8,153.8,108.0,0.8,143.7
+48,Pacific Contiguous,WA,95.1,151.7,1.0,148.0,130.6,0.9,143.8
+49,Pacific Noncontiguous,AK,84.5,374.8,2.7,138.8,325.7,2.4,137.6
+50,Pacific Noncontiguous,HI,99.9,491.8,1.8,275.1,148.6,1.4,106.3
