@@ -1,0 +1,53 @@
+Census Division,State,Generation at Utility Scale of All Facilities (Aug 2024),Generation at Utility Scale of All Facilities (Aug 2023),"Generation at Utility Scale of All Facilities (Percentage
+Change)",Generation at Utility Scale Electric Facilities (Aug 2024),Generation at Utility Scale Electric Facilities (Aug 2023),Generation at Utility Scale Independent Electric Facilities (Aug 2024),Generation at Utility Scale Independent Electric Facilities (Aug 2023),Generation at Utility Scale Commercial Facilities (Aug 2024),Generation at Utility Scale Commercial Facilities (Aug 2023),Generation at Utility Scale Industrial Facilities (Aug 2024),August 2023Generation at Utility Scale Industrial Facilities (Aug 2023)
+New England,Connecticut,"4,352","3,976",9.4%,7,7,"4,257","3,884",29,26,59,59
+New England,Maine,"1,185","1,154",2.8%,NM,0,"1,088","1,058",4,4,93,91
+New England,Massachusetts,"1,896","1,783",6.4%,70,47,"1,657","1,575",154,147,15,15
+New England,New Hampshire,"1,808","1,471",22.9%,NM,1,"1,800","1,463",5,5,2,2
+New England,Rhode Island,"1,061","1,067",-0.5%,0,0,"1,042","1,044",4,6,15,16
+New England,Vermont,207,224,-7.5%,84,90,123,134,0,0,0,0
+Middle Atlantic,New Jersey,"5,633","6,567",-14.2%,36,32,"5,438","6,387",101,95,58,53
+Middle Atlantic,New York,"12,290","11,633",5.6%,"3,369","3,348","8,635","8,012",209,206,76,67
+Middle Atlantic,Pennsylvania,"23,206","23,167",0.2%,5,3,"22,797","22,757",55,52,349,355
+East North Central,Illinois,"17,196","16,568",3.8%,672,447,"16,309","15,880",45,42,170,199
+East North Central,Indiana,"9,001","8,762",2.7%,"6,184","5,822","2,370","2,497",21,22,426,421
+East North Central,Michigan,"12,136","11,083",9.5%,"9,020","8,223","2,938","2,687",65,63,114,109
+East North Central,Ohio,"13,652","12,635",8.0%,"1,542","1,481","12,020","11,061",30,32,60,60
+East North Central,Wisconsin,"6,417","6,549",-2.0%,"5,298","5,436",982,982,9,11,127,119
+West North Central,Iowa,"5,530","5,960",-7.2%,"4,631","5,079",679,674,9,10,211,197
+West North Central,Kansas,"5,364","5,656",-5.2%,"3,460","4,028","1,872","1,591",NM,1,31,36
+West North Central,Minnesota,"5,512","5,398",2.1%,"4,080","3,943","1,298","1,321",21,26,113,108
+West North Central,Missouri,"7,051","6,966",1.2%,"6,415","6,325",614,619,20,19,3,3
+West North Central,Nebraska,"3,560","3,756",-5.2%,"2,812","2,942",720,793,2,1,26,19
+West North Central,North Dakota,"3,642","3,504",3.9%,"2,933","2,893",698,598,0,0,12,13
+West North Central,South Dakota,"1,603","1,708",-6.2%,852,"1,134",746,567,NM,NM,6,7
+South Atlantic,Delaware,482,547,-12.0%,13,1,363,440,NM,1,106,105
+South Atlantic,District of Columbia,19,17,14.1%,NM,0,5,2,14,14,0,0
+South Atlantic,Florida,"27,339","27,822",-1.7%,"25,550","26,135","1,387","1,258",99,98,303,331
+South Atlantic,Georgia,"14,863","13,855",7.3%,"12,133","11,416","2,300","2,058",NM,0,429,381
+South Atlantic,Maryland,"3,347","3,585",-6.6%,296,515,"3,013","3,032",33,32,5,6
+South Atlantic,North Carolina,"13,560","13,414",1.1%,"11,324","11,209","2,093","2,058",26,24,117,123
+South Atlantic,South Carolina,"9,630","9,778",-1.5%,"9,014","9,223",458,437,0,0,158,118
+South Atlantic,Virginia,"10,409","9,569",8.8%,"7,764","7,391","2,393","1,928",70,76,182,174
+South Atlantic,West Virginia,"5,413","5,292",2.3%,"4,345","4,446",966,782,0,0,101,64
+East South Central,Alabama,"14,073","13,426",4.8%,"10,222","9,335","3,412","3,721",0,0,439,370
+East South Central,Kentucky,"6,964","6,496",7.2%,"6,822","6,403",96,44,NM,0,46,48
+East South Central,Mississippi,"7,436","7,943",-6.4%,"6,823","7,501",473,269,0,0,140,174
+East South Central,Tennessee,"6,912","7,693",-10.2%,"6,506","7,344",196,166,18,17,191,166
+West South Central,Arkansas,"6,474","6,895",-6.1%,"5,814","6,395",568,423,NM,6,86,71
+West South Central,Louisiana,"10,134","10,690",-5.2%,"6,783","7,233",913,893,NM,5,"2,434","2,560"
+West South Central,Oklahoma,"10,063","9,594",4.9%,"5,840","5,667","4,151","3,863",-1,-2,72,67
+West South Central,Texas,"58,530","60,044",-2.5%,"10,360","11,425","44,086","44,465",122,87,"3,961","4,068"
+Mountain,Arizona,"12,448","11,993",3.8%,"9,214","9,205","3,215","2,770",16,15,3,3
+Mountain,Colorado,"5,477","5,616",-2.5%,"3,633","3,987","1,818","1,605",5,4,21,20
+Mountain,Idaho,"1,656","1,860",-11.0%,"1,090","1,299",512,513,6,6,48,43
+Mountain,Montana,"2,306","2,194",5.1%,872,802,"1,432","1,390",0,0,NM,3
+Mountain,Nevada,"4,700","4,138",13.6%,"2,693","2,478","1,939","1,578",11,10,57,72
+Mountain,New Mexico,"3,198","3,669",-12.8%,"1,946","2,170","1,221","1,463",10,11,21,25
+Mountain,Utah,"3,440","3,692",-6.8%,"2,735","3,184",667,486,10,13,28,9
+Mountain,Wyoming,"3,868","4,259",-9.2%,"3,392","3,832",354,306,0,0,123,121
+Pacific Contiguous,California,"22,299","22,795",-2.2%,"8,156","8,472","12,939","13,034",203,219,"1,001","1,069"
+Pacific Contiguous,Oregon,"5,448","5,390",1.1%,"3,409","3,266","1,977","2,066",6,6,57,52
+Pacific Contiguous,Washington,"9,092","9,468",-4.0%,"7,701","7,870","1,233","1,415",NM,1,157,181
+Pacific Noncontiguous,Alaska,632,563,12.2%,577,505,15,17,33,30,7,11
+Pacific Noncontiguous,Hawaii,841,800,5.2%,520,476,268,278,37,26,16,20
