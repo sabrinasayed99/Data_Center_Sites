@@ -4,6 +4,15 @@ Keys: City, State
 Reliability:
 Keys: State
 
+Disaster Risk:
+Keys: State, County
+
+Broadband:
+Keys: State, City, County
+
+Net Generation:
+Keys: State
+
 EPA_State_Emissions_2023:
 Keys: State, City, County, Lat/Long
 
