@@ -1,20 +1,24 @@
+Net Generation:      MERGED
+Keys: State
+
+Reliability:         MERGED 
+Keys: State
+
+Energy Efficiency:     MERGED
+Keys: State
+
+Regional Demand:        MERGED
+Keys: State
+
 IXPs by City:
+Keys: City, State       MERGED
+
+Retail Costs:           MERGED
 Keys: City, State
 
-Reliability:
-Keys: State
+
+Broadband:              MERGED
+Keys: City, County, State
 
 Disaster Risk:
 Keys: State, County
-
-Broadband:
-Keys: State, City, County
-
-Net Generation:
-Keys: State
-
-EPA_State_Emissions_2023:
-Keys: State, City, County, Lat/Long
-
-Energy Efficiency 2023 clean:
-Keys: State, Balancing Authority Code, Year

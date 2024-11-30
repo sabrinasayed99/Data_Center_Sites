@@ -1,0 +1,394 @@
+,City,State,Number_of_Data_Centers
+6,Anchorage,AK,1
+7,Prudhoe Bay,AK,1
+0,Birmingham,AL,4
+4,Huntsville,AL,4
+2,Mobile,AL,3
+1,Montgomery,AL,2
+5,Bridgeport,AL,2
+3,Auburn,AL,1
+11,Little Rock,AR,3
+8,Phoenix,AZ,87
+9,Tucson,AZ,8
+10,Nogales,AZ,1
+17,Santa Clara,CA,72
+12,Los Angeles,CA,68
+13,San Jose,CA,33
+20,Sacramento,CA,22
+14,San Francisco,CA,16
+16,San Diego,CA,14
+18,Irvine,CA,14
+19,Fremont,CA,6
+23,San Luis Obispo,CA,4
+25,Fresno,CA,4
+26,Riverside,CA,3
+27,El Segundo,CA,3
+33,Stockton,CA,3
+15,Palo Alto,CA,2
+21,Tustin,CA,2
+24,Modesto,CA,2
+29,Emeryville,CA,2
+34,Bakersfield,CA,2
+35,Hayward,CA,2
+36,Santa Barbara,CA,2
+22,Mountain View,CA,1
+28,Oakland,CA,1
+30,Burbank,CA,1
+31,Goleta,CA,1
+32,Santa Cruz,CA,1
+37,Hawthorne,CA,1
+38,Inland Empire,CA,1
+39,Manchester,CA,1
+40,San Bernardino,CA,1
+41,Denver,CO,46
+43,Colorado Springs,CO,7
+42,Loveland,CO,1
+44,Fort Collins,CO,1
+48,Norwich,CT,20
+49,Wallingford,CT,12
+50,Groton,CT,8
+46,Stamford,CT,6
+51,Hartford,CT,4
+53,New Haven,CT,4
+52,Trumbull,CT,2
+45,Norwalk,CT,1
+47,Oxford,CT,1
+54,Fairfield County,CT,1
+55,Waterbury,CT,1
+58,Washington,DC,8
+56,Wilmington,DE,4
+57,Newark,DE,1
+60,Miami,FL,41
+59,Tampa,FL,23
+61,Orlando,FL,14
+67,Jacksonville,FL,14
+63,Boca Raton,FL,7
+64,Fort Lauderdale,FL,4
+68,Tallahassee,FL,4
+70,Fort Myers,FL,3
+65,West Palm Beach,FL,2
+71,Melbourne,FL,2
+62,Winter Haven,FL,1
+66,Gainesville,FL,1
+69,Stuart,FL,1
+72,Daytona Beach,FL,1
+73,Deltona,FL,1
+74,Naples,FL,1
+75,Port Saint Lucie,FL,1
+77,Atlanta,GA,86
+76,Alpharetta,GA,2
+78,Buford,GA,1
+79,Carrollton,GA,1
+80,Columbus,GA,1
+81,Dalton,GA,1
+82,Statesboro,GA,1
+83,Honolulu,HI,6
+84,Kapolei,HI,1
+85,Waimea,HI,1
+104,Des Moines,IA,20
+105,Monticello,IA,2
+106,Cedar Rapids,IA,2
+108,Cedar Falls,IA,2
+109,Council Bluffs,IA,2
+110,Davenport,IA,2
+107,Sioux City,IA,1
+111,Lake Park,IA,1
+112,Spencer,IA,1
+113,Waterloo,IA,1
+87,Boise,ID,4
+86,Coeur d Alene,ID,2
+88,Chicago,IL,138
+92,Aurora,IL,11
+89,Bloomington,IL,2
+90,Champaign,IL,2
+91,Peoria,IL,1
+93,Rockford,IL,1
+94,Rantoul,IL,1
+95,Indianapolis,IN,18
+96,South Bend,IN,10
+99,Fort Wayne,IN,4
+98,Evansville,IN,2
+97,Noblesville,IN,1
+100,Hammond,IN,1
+101,Columbus,IN,1
+102,Jeffersonville,IN,1
+103,La Porte,IN,1
+114,Kansas City,KS,9
+115,Lenexa,KS,2
+116,Wichita,KS,2
+117,Topeka,KS,1
+118,Louisville,KY,12
+119,Lexington,KY,2
+123,Florence,KY,2
+120,Ashland,KY,1
+121,Hopkinsville,KY,1
+122,Ivel,KY,1
+124,Bowling Green,KY,1
+125,Calvert City,KY,1
+127,New Orleans,LA,6
+128,Baton Rouge,LA,4
+129,Shreveport,LA,2
+126,Monroe,LA,1
+142,Boston,MA,31
+147,Marlborough,MA,6
+149,Springfield,MA,3
+144,Fall River,MA,2
+148,Worcester,MA,2
+143,Stoughton,MA,1
+145,Andover,MA,1
+146,Fitchburg,MA,1
+150,Acton Boxborough,MA,1
+151,Cambridge,MA,1
+135,Baltimore,MD,14
+136,Frederick,MD,4
+137,Beltsville,MD,3
+138,Silver Spring,MD,2
+140,Laurel,MD,2
+139,Germantown,MD,1
+141,Rockville,MD,1
+131,Brunswick,ME,2
+132,Portland,ME,2
+130,Bangor,ME,1
+133,Millinocket,ME,1
+134,Houlton,ME,1
+152,Detroit,MI,28
+153,Grand Rapids,MI,9
+154,Lansing,MI,5
+155,Ann Arbor,MI,3
+156,Battle Creek,MI,2
+157,Alpena,MI,1
+158,Cassopolis,MI,1
+159,Flint,MI,1
+160,Kalamazoo,MI,1
+161,Monroe,MI,1
+162,Minneapolis,MN,52
+165,Duluth,MN,2
+163,Braham,MN,1
+164,Cambridge,MN,1
+166,Bemidji,MN,1
+167,Alexandria,MN,1
+168,Saint Paul,MN,1
+169,St. Cloud,MN,1
+173,Kansas City,MO,19
+174,St. Louis,MO,17
+175,Columbia,MO,3
+176,Springfield,MO,1
+170,Jackson,MS,3
+171,Hattiesburg,MS,1
+172,Starkville,MS,1
+177,Billings,MT,2
+178,Bozeman,MT,1
+237,Charlotte,NC,32
+239,Raleigh,NC,11
+241,Greensboro,NC,5
+240,Hickory,NC,4
+238,Asheville,NC,2
+245,Durham,NC,2
+246,Maiden,NC,2
+247,Winston Salem,NC,2
+242,Fayetteville,NC,1
+243,Mooresville,NC,1
+244,Sylva,NC,1
+248,Catawba,NC,1
+249,Goldsboro,NC,1
+250,Marble,NC,1
+251,Roxboro,NC,1
+253,Fargo,ND,4
+254,Grand Forks,ND,2
+252,Bismarck,ND,1
+255,Ellendale,ND,1
+179,Omaha,NE,12
+181,Lincoln,NE,3
+180,Papillion,NE,2
+182,Grand Island,NE,1
+186,Manchester,NH,5
+185,Littleton,NH,1
+187,Keene,NH,1
+188,Laconia,NH,1
+189,Lebanon,NH,1
+190,Portsmouth,NH,1
+193,Piscataway,NJ,14
+192,Secaucus,NJ,11
+191,Newark,NJ,8
+194,Jersey City,NJ,5
+200,Morris County,NJ,4
+197,Clifton,NJ,3
+196,Bridgewater,NJ,2
+199,Hackensack,NJ,2
+201,Princeton,NJ,2
+203,New Brunswick,NJ,2
+204,Wall Township,NJ,2
+195,North Bergen,NJ,1
+198,Edison,NJ,1
+202,Newton,NJ,1
+205,Carteret,NJ,1
+206,Pennsauken,NJ,1
+207,South Brunswick,NJ,1
+208,Totowa,NJ,1
+209,Albuquerque,NM,6
+210,Clovis,NM,1
+211,Santa Fe,NM,1
+212,Taos,NM,1
+183,Las Vegas,NV,26
+184,Reno,NV,16
+213,New York,NY,68
+215,Buffalo,NY,16
+216,Albany,NY,13
+231,Westchester,NY,6
+228,Syracuse,NY,5
+214,Rochester,NY,4
+217,Garden City,NY,1
+218,Commack,NY,1
+219,Mt. Sinai,NY,1
+220,Islandia,NY,1
+221,Ronkonkoma,NY,1
+222,Setauket,NY,1
+223,Farmingdale,NY,1
+224,Westbury,NY,1
+225,Hicksville,NY,1
+226,Woodbury,NY,1
+227,Melville,NY,1
+229,Watertown,NY,1
+230,Potsdam,NY,1
+232,Plattsburgh,NY,1
+233,Romulus,NY,1
+234,Utica,NY,1
+235,Wappingers Falls,NY,1
+236,Yorktown Heights,NY,1
+257,Columbus,OH,103
+256,Cleveland,OH,23
+259,Cincinnati,OH,22
+258,Akron,OH,5
+265,Dayton,OH,5
+260,Toledo,OH,2
+262,Canton,OH,2
+266,Akron Canton,OH,2
+261,Youngstown,OH,1
+263,Springfield,OH,1
+264,Lebanon,OH,1
+267,Hannibal,OH,1
+268,Lima,OH,1
+270,Tulsa,OK,16
+269,Oklahoma City,OK,8
+278,Boardman,OR,30
+271,Portland,OR,27
+279,Umatilla,OR,16
+280,Hermiston,OR,15
+275,Hillsboro,OR,12
+273,Eugene,OR,3
+274,Bend,OR,2
+281,Prineville,OR,2
+272,Medford,OR,1
+276,Baker City,OR,1
+277,Corvallis,OR,1
+282,Bandon,OR,1
+283,The Dalles,OR,1
+290,Pittsburgh,PA,30
+289,Philadelphia,PA,27
+291,Reading,PA,3
+284,Allentown,PA,2
+286,Ebensburg,PA,2
+294,Wilkes Barre,PA,2
+285,Bethlehem,PA,1
+287,Harrisburg,PA,1
+288,Lancaster,PA,1
+292,State College,PA,1
+293,Valley Forge,PA,1
+295,Providence,RI,7
+298,Charleston,SC,5
+296,Greenville,SC,3
+301,Columbia,SC,3
+302,Rock Hill,SC,2
+297,Seneca,SC,1
+299,Aiken,SC,1
+300,Spartanburg,SC,1
+303,Myrtle Beach,SC,1
+304,Sioux Falls,SD,4
+306,Nashville,TN,26
+310,Memphis,TN,7
+305,Chattanooga,TN,4
+307,Knoxville,TN,4
+308,Bristol,TN,1
+309,Jackson,TN,1
+311,McMinnville,TN,1
+312,Clarksville,TN,1
+313,Lebanon,TN,1
+314,Dallas,TX,153
+317,Houston,TX,45
+318,Austin,TX,31
+316,San Antonio,TX,29
+320,El Paso,TX,6
+315,McAllen,TX,4
+325,Laredo,TX,3
+326,Waco,TX,3
+322,Lubbock,TX,2
+327,Abilene,TX,2
+328,Harlingen,TX,2
+329,Wichita Falls,TX,2
+319,Bryan,TX,1
+321,The Woodlands,TX,1
+323,Nacogdoches,TX,1
+324,Tyler,TX,1
+330,Amarillo,TX,1
+331,Corpus Christi,TX,1
+332,Eagle Pass,TX,1
+333,Fort Stockton,TX,1
+334,Montgomery,TX,1
+335,Pecos,TX,1
+336,San Angelo,TX,1
+337,Stratford,TX,1
+338,Salt Lake City,UT,23
+339,Orem,UT,3
+340,St George,UT,1
+341,Ogden,UT,1
+342,St. George,UT,1
+345,Ashburn,VA,133
+349,Sterling,VA,99
+347,Manassas,VA,77
+355,Gainesville,VA,27
+351,Richmond,VA,25
+356,Dulles,VA,23
+350,Chantilly,VA,21
+360,Bristow,VA,19
+361,Culpeper,VA,15
+352,Herndon,VA,10
+348,Vienna,VA,9
+346,Reston,VA,6
+357,Norfolk,VA,6
+362,South Riding,VA,5
+358,Harrisonburg,VA,2
+353,Lexington,VA,1
+354,Middletown,VA,1
+359,Roanoke,VA,1
+363,Fredericksburg,VA,1
+364,Duffield,VA,1
+365,Wise,VA,1
+343,Burlington,VT,2
+344,Stowe,VT,1
+371,Seattle,WA,56
+373,Tacoma,WA,9
+372,Spokane,WA,6
+374,Walla Walla,WA,5
+375,Wenatchee,WA,5
+370,Quincy,WA,4
+366,Bellevue,WA,2
+367,Bellingham,WA,2
+368,Moses Lake,WA,2
+369,Pasco,WA,1
+380,Milwaukee,WI,18
+381,Madison,WI,8
+383,Kenosha,WI,5
+385,Green Bay,WI,3
+384,Appleton,WI,2
+382,Wisconsin Rapids,WI,1
+386,Wausau,WI,1
+387,Eau Claire,WI,1
+388,Marshfield,WI,1
+379,Charleston,WV,3
+376,Bridgeport,WV,2
+377,Berkeley Springs,WV,1
+378,Morgantown,WV,1
+389,Cheyenne,WY,8
+390,Casper,WY,1
+391,Evanston,WY,1
+392,Afton,WY,1
